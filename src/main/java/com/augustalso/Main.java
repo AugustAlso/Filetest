@@ -28,7 +28,7 @@ public class Main {
 	    }
 	    
 	    for (NobelWinner winner : winners){
-	    	System.out.println(winner.getName());
+	    	System.out.println(winner);
 	    }
 	    
 	}
